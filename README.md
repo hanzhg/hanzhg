@@ -10,4 +10,4 @@
 <br />
 <br />
 
-[![Linkedin: hanzhg](https://img.shields.io/badge/-hanzhg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanzhg/)](https://www.linkedin.com/in/hanzhg/)<a href="https://github.com/hanzhg" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/hanzhg/hanzhg?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+[![Linkedin: hanzhg](https://img.shields.io/badge/-hanzhg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanzhg/)](https://www.linkedin.com/in/hanzhg/)<a href="https://github.com/hanzhg" target="_blank">
